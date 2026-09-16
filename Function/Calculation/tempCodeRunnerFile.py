@@ -1,1 +1,0 @@
-choice = int(input("Enter your choice: "))
